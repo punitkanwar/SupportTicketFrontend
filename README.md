@@ -2,6 +2,16 @@
 
 ResolveDesk is a React dashboard for creating, filtering, and managing support tickets.
 
+## Demo & Screenshots
+
+- **Video Walkthrough:** [Watch the ResolveDesk Demo on Loom](https://www.loom.com/share/3d73999636fd4ce19ddc78734cf73d04)
+
+### Dashboard Preview
+![Ticket Dashboard]<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/79121fe0-c83a-4f37-b3c7-b86eb77a3115" />
+
+### Create & Filter Tickets
+![Ticket Filtering]![Uploading image.png…]()
+
 ## Requirements
 
 - Node.js 20.19 or later, or 22.12 or later
